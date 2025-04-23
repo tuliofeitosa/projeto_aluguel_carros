@@ -1,0 +1,3 @@
+admin;admin004262;admin
+gerente;gerente005382;gerente
+vendedor;vendedor008197;vendedor

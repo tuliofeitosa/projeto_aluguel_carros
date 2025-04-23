@@ -1,0 +1,20 @@
+[
+    {
+        "marca": "Toyota",
+        "modelo": "Etios",
+        "ano": "2020",
+        "cor": "Preto",
+        "valor_diaria": 500.0,
+        "placa": "GDF4T56",
+        "disponibilidade": 1
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano": "2023",
+        "cor": "Vermelho",
+        "valor_diaria": 350.0,
+        "placa": "FGT5D65",
+        "disponibilidade": 1
+    }
+]
